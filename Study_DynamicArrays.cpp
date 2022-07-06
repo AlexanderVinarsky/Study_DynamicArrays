@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include "Functions.h"
 
-int main()
+int dim1()
 {
     int size = 0;
     int* mas = createArray(size);
